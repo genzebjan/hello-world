@@ -1,2 +1,2 @@
 # hello-world
-I am Jan. :earning to use Github. Thanks for giving for the dvelopers of the tool.
+I am Jan. Learning using Github. Thanks dvelopers for the tool.
